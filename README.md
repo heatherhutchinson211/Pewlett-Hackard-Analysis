@@ -16,7 +16,7 @@ After completing the analysis on this data, I found some important results.
 
 * Next, I created a tabel to show how many employees per title would be retiring.  This analysis showed that Senior Engineers had the most retiring empoyees, while managers had the least, at only 2 employees. 
 
-![Retiring Titles]( linkkk)
+![Retiring Titles](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.57.53%20PM.png)
 
 * Finally, I analyzed how many employees would be eligible for the retirment program in the membership_eligibility table. 
 
