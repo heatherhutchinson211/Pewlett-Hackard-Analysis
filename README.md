@@ -22,7 +22,7 @@ After completing the analysis on this data, I found some important results.
 
 ![Membership Eligibility](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.55.40%20PM.png)
 
-*** Summary
+### Summary
 
 After creating and analyzing these tables, I found that in order to handle the "silver tsunami," 90,398 roles will need to be filled in total. 
 With this amount, it is unlikely that eveyr new, incoming role will be able to be mentored properly, so I suggest that this process begins soon, before all of these employees beging their retirement. It would be helpful to find addiitonal queries to help with this process.  First, it might be helpeful to find a table of each positioin and names of employees retiring individually in order to sort out the mentorship process for eahc position.  Also, it would be beneifical to find exact dates on when each employee will be retiring, rather than just the entire year in order to really get into the logisitics of thenew hiring process. 
