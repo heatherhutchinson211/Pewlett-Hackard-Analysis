@@ -8,7 +8,7 @@ This analysis helped to see whow many employees per title would be retiring this
 After completing the analysis on this data, I found some important results. 
 * I created a retirement_tables file sthat showed each employee that will be retiring; however, this file may have employee duplicates in their different titles over the year due to promotions etc. 
 
-![Retirement Titles](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.55.40%20PM.png)
+![Retirement Titles](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.56.58%20PM.png)
 
 * I then found similar results; however in the unique_titles table, these results only show eachemployee once, witht heir most recent position. 
 
@@ -20,7 +20,7 @@ After completing the analysis on this data, I found some important results.
 
 * Finally, I analyzed how many employees would be eligible for the retirment program in the membership_eligibility table. 
 
-![Membership Eligibility]( linkkk)
+![Membership Eligibility](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.55.40%20PM.png)
 
 *** Summary
 
