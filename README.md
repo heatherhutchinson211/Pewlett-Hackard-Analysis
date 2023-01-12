@@ -12,7 +12,7 @@ After completing the analysis on this data, I found some important results.
 
 * I then found similar results; however in the unique_titles table, these results only show eachemployee once, witht heir most recent position. 
 
-![Unique Titles]( linkkk)
+![Unique Titles](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.57.26%20PM.png)
 
 * Next, I created a tabel to show how many employees per title would be retiring.  This analysis showed that Senior Engineers had the most retiring empoyees, while managers had the least, at only 2 employees. 
 
