@@ -8,7 +8,7 @@ In this project, I conducted an in-depth analysis of six distinct .csv files to 
 Upon meticulous data analysis, several significant findings emerged:
 
 * I devised a retirement_tables file that captures employees set to retire. However, it's important to note that this file may include duplicate entries for employees who held different titles over the years due to promotions and transitions.
-* 
+  
 ![Retirement Titles](https://github.com/heatherhutchinson211/Pewlett-Hackard-Analysis/blob/main/Screenshot%202023-01-11%20at%209.56.58%20PM.png)
 
 * A distinct perspective was gained from the unique_titles table, where each employee is represented once, showcasing their latest position.
